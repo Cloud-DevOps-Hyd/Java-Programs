@@ -30,6 +30,14 @@ sc.close();
 sum = num1 + num2+num3+num4;
 System.out.println("The sum of Two values are "+sum);
 
+
+int subt;
+subt= num1+num2;
+subt=sum-subt;
+
+System.out.println("The subtraction of Two values are "+subt);
+
+
 }
 
 }
