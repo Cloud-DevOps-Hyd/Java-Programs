@@ -18,9 +18,6 @@ num2 = sc.nextInt();
 System.out.println("Enter the Third Number:");
 num3 = sc.nextInt();
 
-System.out.println("ENter the 4th Number:");
-num4 = sc.nextInt();
-//This is comment line  for programmer understanding purpose.
 
 
 
